@@ -1,7 +1,6 @@
 package com.example.clothesstore.boostrap;
 
 import com.example.clothesstore.models.Product;
-import com.example.clothesstore.models.ProductCountry;
 import com.example.clothesstore.repositories.ProductRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
